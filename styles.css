@@ -1,4 +1,4 @@
-/* Base Styles */
+
 :root {
     --primary-color: #8B4513;
     --secondary-color: #D2691E;
@@ -105,7 +105,7 @@ body {
     transform: scale(1.05);
 }
 
-/* Features Section */
+
 .features {
     padding: 5rem 5%;
     text-align: center;
@@ -135,7 +135,6 @@ body {
     margin-bottom: 1rem;
 }
 
-/* Newsletter Section */
 .newsletter {
     background-color: var(--primary-color);
     color: white;
@@ -166,7 +165,7 @@ body {
     cursor: pointer;
 }
 
-/* Footer */
+
 footer {
     background-color: var(--text-color);
     color: white;
@@ -192,7 +191,7 @@ footer {
     text-decoration: none;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
