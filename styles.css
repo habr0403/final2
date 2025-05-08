@@ -95,7 +95,7 @@ z
     position: relative;
     z-index: 2; /* Make sure content is above the video */
     text-align: center;
-    color: white; /* Change text color for better visibility */
+    color: rgb(37, 44, 244); /* Change text color for better visibility */
 }
 
 .hero h1 {
