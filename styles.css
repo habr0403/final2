@@ -69,7 +69,8 @@ body {
 
 .signup-btn:hover {
     background-color: var(--secondary-color);
-
+}
+z
 /* Hero Section */
 .hero {
     display: flex;
