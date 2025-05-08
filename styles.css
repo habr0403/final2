@@ -58,7 +58,7 @@ body {
 }
 }
 .video-background {
-    position: fixed;
+    position: static;
     top: 25%;
     left: 25%;
     width: 100%;
