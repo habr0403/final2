@@ -26,7 +26,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 5%;
-    background-color: rgb(216, 33, 33);
+    background-color: rgba(5, 235, 159, 0.769);
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -133,7 +133,7 @@ body {
 }
 
 .feature-card {
-    background: rgb(200, 21, 21);
+    background: rgb(37, 44, 244);
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
