@@ -98,7 +98,13 @@ body {
 .cta-button:hover {
     transform: scale(1.05);
 }
-
+.interactive-section {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    border-radius: 0px;
+    box-shadow: 0 px 118px #0dff01;
 .features {
     padding: 3rem 5%;
     text-align: center;
@@ -136,7 +142,7 @@ div.gallery {
     width: 50%;
     height: 10%;
     flex-wrap: var(--secondary-color) wrap;
-    color: #478a1f;
+    color: #000000;
     margin: 10px;
 }
 
