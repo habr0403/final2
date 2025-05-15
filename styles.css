@@ -225,9 +225,24 @@ footer {
         max-width: 300px;
     }
 }
-button hover {
-    background-color: #0b0a0a;
-    align-content: center;
+button:hover {
+        background-color: #0b0a0a;
+        align-content: center;
+        .interactive-button {
+        background-color: #478a1f;
+        text-align: center;
+        padding: 15px 25px;
+        margin: 0px;
+        border: none;
+        border-radius: 25px;
+        color: #ffffff;
+        font-size: 16px;
+        -moz-box-align: center;
+        cursor: pointer;
+        align-items: center;
+        align-content: center;
+        transition: transform 0.3s, box-shadow 0.3s;
+        }
      
 }
     .interactive-button {
@@ -242,7 +257,7 @@ button hover {
         -moz-box-align: center;
         cursor: pointer;
         align-items: center;
-        align-content: cente r;
+        align-content: center;
         transition: transform 0.3s, box-shadow 0.3s;
         }
 
