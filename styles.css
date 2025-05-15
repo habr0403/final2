@@ -135,8 +135,7 @@ div.gallery {
     text-align: center;
     width: 50%;
     height: 10%;
-    display-box: var(--accent-color)
-    flex-wrap: wrap;
+    flex-wrap: var(--secondary-color) wrap;
     color: #478a1f;
     margin: 10px;
 }
