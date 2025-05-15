@@ -106,7 +106,7 @@ body {
     border-radius: 0px;
     box-shadow: 0 px 118px #0dff01;
 }
-.signup-btn {
+.interactive-btn {
     background-color: var(--primary-color);
     color: rgb(7 7 7);
     border: none;
