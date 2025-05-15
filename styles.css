@@ -42,7 +42,7 @@ body {
 .nav-links {
     display: flex;
     gap: 2rem;
-    list-style: none;
+    list-style: georgian
 }
 
 .nav-links a {
