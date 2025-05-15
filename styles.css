@@ -114,6 +114,8 @@ body {
     border-radius: 25px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+}
+
 .features {
     padding: 3rem 5%;
     text-align: center;
