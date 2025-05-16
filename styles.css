@@ -77,25 +77,6 @@ body {
     margin-bottom: 1rem;
     color: white (--primary-color);
 }
-.video-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100vw;
-    overflow: hidden;
-    z-index: -1;
-}
-
-.video-background iframe {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 177.77vh; /* 100 * (16/9) to cover full height in 16:9 aspect */
-    height: 100vh;
-    transform: translate(-50%, -50%);
-    pointer-events: none; /* So users can't click it */
-
 .cta-button {
     background-color: var(--accent-color);
     color: #060606;
@@ -392,4 +373,3 @@ button:hover {
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         z-index: -1;
     }
-}
