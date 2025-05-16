@@ -86,6 +86,8 @@ body {
     left: 50%;
     width: 120vh; /* 100 * (16/9) to cover full height in 16:9 aspect */
     height: 67.5vh;
+    min-height: 100vh;
+    min-width: 100vh;
     transform: translate(-50%, -50%);
     pointer-events: none; /* So users can't click it */
 }
