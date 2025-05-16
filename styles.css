@@ -176,6 +176,7 @@ body {
 
 .caption {
   position: absolute;
+  color: green;
   bottom: 5px;
   left: 20px;
   opacity: 0.0;
