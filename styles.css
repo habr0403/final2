@@ -7,19 +7,6 @@
     --text-color: #333;
 }
 
-.video-container {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: auto;
-            z-index: 1000; /* Ensure it stays on top */
-        }
-        .video-container video {
-            width: 100%;
-            height: auto;
-}
-
 body {
     font-family: 'Poppins', sans-serif;
     line-height: 1.6;
