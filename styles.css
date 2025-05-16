@@ -139,6 +139,8 @@ body {
 .features {
     padding: 3rem 5%;
     text-align: center;
+    background-color: #478a1f;
+    color:#000000;
 }
 
 .feature-grid {
