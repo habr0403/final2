@@ -67,7 +67,7 @@ body {
 }
 
 .email-button :hover {
-    background-color: var(--secondary-color);
+    background-color: green (--secondary-color);
 }
 
 .video-background {
