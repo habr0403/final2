@@ -64,6 +64,19 @@ body {
     background-color: green (--secondary-color);
 }
 
+.hero-content {
+    position: relative;
+    z-index: 2; /* Make sure content is above the video */
+    text-align: center;
+    color: rgb(0 0 0); /* Change text color for better visibility */
+}
+
+
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color: white (--primary-color);
+}
 .video-background {
     position: fixed;
     top: 0;
@@ -82,21 +95,6 @@ body {
     height: 100vh;
     transform: translate(-50%, -50%);
     pointer-events: none; /* So users can't click it */
-}
-
-.hero-content {
-    position: relative;
-    z-index: 2; /* Make sure content is above the video */
-    text-align: center;
-    color: rgb(0 0 0); /* Change text color for better visibility */
-}
-
-
-.hero h1 {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    color: white (--primary-color);
-}
 
 .cta-button {
     background-color: var(--accent-color);
