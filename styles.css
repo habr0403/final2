@@ -89,7 +89,7 @@ body {
     transform: translate(-50%, -50%);
     pointer-events: none; /* So users can't click it */
 }
-}
+
 .hero-content {
     position: relative;
     z-index: 2; /* Make sure content is above the video */
